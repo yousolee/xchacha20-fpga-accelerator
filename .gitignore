@@ -1,0 +1,17 @@
+# Vivado project files (not included — only synthesized outputs)
+*.xpr
+*.runs/
+*.cache/
+*.ip_user_files/
+*.gen/
+*.srcs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
